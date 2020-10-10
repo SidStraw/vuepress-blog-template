@@ -51,7 +51,7 @@ module.exports = {
     
     googleAnalytics: "<GOOGLE ANALYTICS ID>", // for site analytics, visit https://analytics.google.com/analytics/web/ for more information.
     
-    sitemap: true, // auto generate site map for your site for better SEO.
+    sitemap: false, // auto generate site map for your site for better SEO.
     hostname: "<YOUR SITE DOMAIN NAME>", // required for site map.
 
     socialShare: true,
