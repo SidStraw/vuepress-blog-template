@@ -27,7 +27,7 @@ featured: true
 ---
 
 
-### get started
+### 馬上開始
 
 at the end of this tutorial you will create a vuepress blog that looks and feels like this demo [http://vp-modern.z3by.com](http://vp-modern.z3by.com),
 
